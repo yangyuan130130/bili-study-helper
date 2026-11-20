@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         B站学习进度助手 · 合集/分P剩余统计
 // @namespace    https://github.com/yangyuan130130/bili-study-helper
-// @version      1.3.0
+// @version      1.3.1
 // @description  按小合集统计剩余待看时长：从实际开始播放的那一集起算，前面被跳过的集自动视为已完成
 // @author       WorkBuddy
 // @match        https://www.bilibili.com/video/*
@@ -10,8 +10,8 @@
 // @icon         https://www.bilibili.com/favicon.ico
 // @homepageURL  https://github.com/yangyuan130130/bili-study-helper
 // @supportURL   https://github.com/yangyuan130130/bili-study-helper/issues
-// @downloadURL  https://cdn.jsdelivr.net/gh/yangyuan130130/bili-study-helper@main/bili-study-helper.user.js
-// @updateURL    https://cdn.jsdelivr.net/gh/yangyuan130130/bili-study-helper@main/bili-study-helper.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/yangyuan130130/bili-study-helper@latest/bili-study-helper.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/yangyuan130130/bili-study-helper@latest/bili-study-helper.user.js
 // @grant        none
 // @run-at       document-idle
 // @license      MIT

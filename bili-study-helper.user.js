@@ -10,8 +10,8 @@
 // @icon         https://www.bilibili.com/favicon.ico
 // @homepageURL  https://github.com/yangyuan130130/bili-study-helper
 // @supportURL   https://github.com/yangyuan130130/bili-study-helper/issues
-// @downloadURL  https://raw.githubusercontent.com/yangyuan130130/bili-study-helper/main/bili-study-helper.user.js
-// @updateURL    https://raw.githubusercontent.com/yangyuan130130/bili-study-helper/main/bili-study-helper.user.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/yangyuan130130/bili-study-helper@main/bili-study-helper.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/yangyuan130130/bili-study-helper@main/bili-study-helper.user.js
 // @grant        none
 // @run-at       document-idle
 // @license      MIT

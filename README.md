@@ -60,12 +60,20 @@ i ≥ S  → 只有播到 95% 才算已完成
 
 ## 安装
 
+一键安装（需先装好 Tampermonkey）：
+
+**https://raw.githubusercontent.com/yangyuan130130/bili-study-helper/main/bili-study-helper.user.js**
+
+手动安装：
+
 1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展
 2. 打开 Tampermonkey 面板 → 「添加新脚本」
 3. 粘贴 `bili-study-helper.user.js` 全文 → `Ctrl + S` 保存
 4. 打开任意有分集的 B 站视频页，右下角出现面板
 
 也可以直接把 `.user.js` 文件拖进浏览器窗口安装。
+
+脚本头里写了 `@downloadURL` / `@updateURL`，之后发布新版本时，装过的人会在 Tampermonkey 里收到更新提示。
 
 ## 使用
 

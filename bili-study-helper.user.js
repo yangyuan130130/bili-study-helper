@@ -8,6 +8,10 @@
 // @match        https://www.bilibili.com/list/*
 // @match        https://www.bilibili.com/bangumi/play/*
 // @icon         https://www.bilibili.com/favicon.ico
+// @homepageURL  https://github.com/yangyuan130130/bili-study-helper
+// @supportURL   https://github.com/yangyuan130130/bili-study-helper/issues
+// @downloadURL  https://raw.githubusercontent.com/yangyuan130130/bili-study-helper/main/bili-study-helper.user.js
+// @updateURL    https://raw.githubusercontent.com/yangyuan130130/bili-study-helper/main/bili-study-helper.user.js
 // @grant        none
 // @run-at       document-idle
 // @license      MIT

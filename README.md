@@ -62,9 +62,11 @@ i ≥ S  → 只有播到 95% 才算已完成
 
 一键安装（需先装好 Tampermonkey）：
 
-**https://cdn.jsdelivr.net/gh/yangyuan130130/bili-study-helper@latest/bili-study-helper.user.js**
+**https://cdn.jsdelivr.net/gh/yangyuan130130/bili-study-helper@v1.3.1/bili-study-helper.user.js**
 
 > 国内直连 `raw.githubusercontent.com` 通常不通，所以这里用的是 jsDelivr 镜像；同一份文件，内容与仓库一致。若你有代理，也可以用仓库里的 Raw 按钮。
+>
+> 上面链接固定在 `v1.3.1`。装好之后脚本会自己去 `@latest` 检查更新，升级不用再回来点链接。
 
 手动安装：
 
